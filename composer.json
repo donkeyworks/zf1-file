@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-file",
+    "name": "donkeyworks/zendframework1-file",
     "description": "Zend Framework 1 File component",
     "type": "library",
     "keywords": [
@@ -15,13 +15,13 @@
         "ext-fileinfo": "*",
         "ext-tokenizer": "*",
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-exception": "^1.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-filter": "^1.0.0",
-        "diablomedia/zendframework1-progressbar": "^1.0.0",
-        "diablomedia/zendframework1-translate": "^1.0.0",
-        "diablomedia/zendframework1-validate": "^1.0.0",
-        "diablomedia/zendframework1-validate-file": "^1.0.0"
+        "donkeyworks/zendframework1-exception": "^1.0.0",
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-filter": "^1.0.0",
+        "donkeyworks/zendframework1-progressbar": "^1.0.0",
+        "donkeyworks/zendframework1-translate": "^1.0.0",
+        "donkeyworks/zendframework1-validate": "^1.0.0",
+        "donkeyworks/zendframework1-validate-file": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
